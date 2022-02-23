@@ -1,1 +1,5 @@
 terrafor init
+{
+
+    test
+}
